@@ -1,0 +1,21 @@
+GET http://localhost:5136
+
+###
+
+GET http://localhost:5136/hola%20amigo
+
+###
+
+PUT http://localhost:5136/put
+
+###
+
+DELETE http://localhost:5136/delete
+
+###
+
+POST  http://localhost:5136/post
+
+
+
+
